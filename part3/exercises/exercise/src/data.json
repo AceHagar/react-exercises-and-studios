@@ -1,0 +1,33 @@
+{"projects": [
+    {
+        "style": "Country Loaf",
+        "type": "Sour Dough",
+        "photoURL": "https://littlespoonfarm.com/wp-content/uploads/2020/01/sourdough-country-loaf.jpg",
+        "alt": "Country Loaf image"
+    },
+    {
+        "style": "Sandwich Loaf",
+        "type": "Sour Dough",
+        "photoURL": "https://www.farmhouseonboone.com/wp-content/uploads/2022/05/sourdough-sandwich-bread-14-1024x683.jpg",
+        "alt": "Sandwich Loaf image"
+    },
+    {
+        "style": "Cinnamon Rolls",
+        "type": "Sweet Dough",
+        "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVIevhPXMSKa8H4KZx6mPtnLIPZaESsUK3cRpn3Fk8t497ECWkRInsKEYXDZWoQFuEHms&usqp=CAU",
+        "alt": "Cinnamon rolls image"
+    },
+    {
+        "style": "Brioche",
+        "type": "Sour Dough",
+        "photoURL": "https://www.farmhouseonboone.com/wp-content/uploads/2022/03/sourdough-brioche-13-1024x683.jpg",
+        "alt": "Brioche Loaf image"
+    },
+    {
+        "style": "Challah",
+        "type": "Sweet Dough",
+        "photoURL": "https://i0.wp.com/sourdoughbrandon.com/wp-content/uploads/2022/03/Sourdough-challah-sesame-seeds-4.jpg?resize=850%2C567&ssl=1",
+        "alt": "Challah Loaf image"
+    }
+
+]}
